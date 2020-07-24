@@ -1,9 +1,9 @@
 # ONLINE  STUDENTS'S VOTING WEBSITE
    
-    this is an online voting pool for students where they can raise voice aginst injustice and        inethical things hapenning in the society and in the goverment as fight for justice is our        right.
+    this is an online voting poll for students where they can raise voice aginst injustice and inethical things hapenning in the society and in the goverment as fight for justice is our right.
     
    ## PREQUISITES
-     create a databse poll.
+     create a databse poll as described in file "poll.sql".
      
    ## INSTALLATION AND RUNNING AND DEPLOYMENT ONA LIVE SYSTEM
      
@@ -18,12 +18,13 @@ Go to google chrome and go to settings , further go to advanced settings
 Then click on change proxy settings then go to connections And then go to lan settings
 After that tick on the box allowing the “ bypass proxy servers”
 Click on ok to apply these settings .
-Now u need to type “localhost/online_voting/admin” on the url of chrome then go to php my admin make a database with table .
-Now copy the site folder to the xampp directory and type “localhost/online_voting/admin”.
+Now u need to type “localhost/dashboard” on the url of chrome then go to php my admin make a database with table .
+Now copy the site folder to the xampp directory and type “localhost/dashboard/foldername”.
 
 ## BUILT WITH
 HTML
-css
-java sript
-mysql
-php
+CSS
+JAVASCRIPT
+PHP
+MYSQL
+
